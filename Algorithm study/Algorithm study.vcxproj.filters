@@ -18,14 +18,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pokemon.cpp">
-      <Filter>소스 파일\week01</Filter>
+    <ClCompile Include="week01\clothes.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="phonenumber.cpp">
-      <Filter>소스 파일\week01</Filter>
+    <ClCompile Include="week01\phonenumber.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="clothes.cpp">
-      <Filter>소스 파일\week01</Filter>
+    <ClCompile Include="week01\pokemon.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
